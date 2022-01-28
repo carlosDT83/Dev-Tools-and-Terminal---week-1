@@ -1,0 +1,942 @@
+html {
+  background-image: url(https://www.enpareja.com/__export/1543353263261/sites/debate/img/2018/11/27/bone-664596_960_720.jpg_514029915.jpg);
+  background-position: top, center;
+  background-repeat: repeat;
+  background-size: 300px;
+  margin-top: 200px;
+  background-color: rgb(117, 149, 150);
+  position: absolute;
+  z-index: 1;
+}
+h1 {
+  text-shadow: 10px 5px 3px rgb(250, 4, 71), 12px 7px 8px rgb(189, 189, 189),
+    16px 10px 12px rgb(134, 80, 175);
+  font-family: cursive, sans-serif;
+  font-size: 100px;
+  color: rgb(14, 191, 10);
+  position: relative;
+  top: -220px;
+  left: 130px;
+  z-index: 3;
+}
+#rayandrain {
+  position: absolute;
+  top: -200px;
+  left: 0px;
+  z-index: 2;
+}
+#intro1 {
+  color: black;
+  display: inline-block;
+  text-shadow: black 0px 0px 3px;
+  text-align: center;
+  font-size: 120%;
+  background-color: white;
+  border: 5px solid white;
+  position: relative;
+  top: -270px;
+  left: 30px;
+}
+#img-vampi {
+  float: right;
+  position: relative;
+  top: -260px;
+  z-index: 2;
+}
+#intro2 {
+  color: black;
+  text-shadow: black 0px 0px 3px;
+  text-align: center;
+  font-size: 120%;
+  display: inline-block;
+  background-color: white;
+  border: 5px solid white;
+  position: relative;
+  top: -280px;
+  left: 25px;
+}
+#img-momi {
+  float: left;
+  position: relative;
+  top: -270px;
+  left: 25px;
+  z-index: 2;
+}
+#intro3 {
+  color: white;
+  display: inline-block;
+  text-shadow: red 0px 0px 3px, white 0px 0px 5px;
+  text-align: center;
+  font-size: 120%;
+  background-color: black;
+  border: 5px solid black;
+  position: relative;
+  top: -290px;
+  left: 50px;
+}
+#mite {
+  background-color: rgb(182, 106, 9);
+  display: inline-block;
+  color: white;
+  text-shadow: rgb(119, 251, 41) 0px 0px 3px;
+  text-align: left;
+  border: 5px rgb(182, 106, 9) solid;
+  font-size: 150%;
+  position: relative;
+  top: -300px;
+  left: 0px;
+}
+#rmite1 {
+  color: white;
+  background-color: rgb(182, 106, 9);
+  display: inline-block;
+  text-shadow: rgb(119, 251, 41) 0px 0px 3px;
+  text-indent: 25px;
+  font-size: 120%;
+  position: relative;
+  top: -210px;
+  left: -205px;
+}
+#rmite2 {
+  background-color: rgb(182, 106, 9);
+  display: inline-block;
+  border: 5px rgb(182, 106, 9) solid;
+  color: white;
+  text-shadow: rgb(119, 251, 41) 0px 0px 3px;
+  text-indent: 25px;
+  text-align: center;
+  font-size: 120%;
+  position: relative;
+  top: -230px;
+  left: 25px;
+}
+#rmite3 {
+  background-color: rgb(182, 106, 9);
+  display: inline-block;
+  border: 5px rgb(182, 106, 9) solid;
+  color: white;
+  text-shadow: rgb(119, 251, 41) 0px 0px 3px;
+  text-indent: 25px;
+  font-size: 120%;
+  position: relative;
+  top: -220px;
+  left: 30px;
+}
+#vinc-web {
+  background-color: rgb(182, 106, 9);
+  display: inline-block;
+  border: 5px rgb(182, 106, 9) solid;
+  text-shadow: white 0px 0px 3px;
+  position: relative;
+  font-size: 120%;
+  top: -200px;
+  left: 530px;
+}
+#llegenda {
+  background-color: rgb(182, 106, 9);
+  display: inline-block;
+  border: 5px rgb(182, 106, 9) solid;
+  color: white;
+  text-shadow: rgb(119, 251, 41) 0px 0px 3px;
+  font-size: 120%;
+  position: relative;
+  top: -140px;
+  left: -290px;
+}
+#rllegenda {
+  background-color: rgb(182, 106, 9);
+  display: inline-block;
+  border: 5px rgb(182, 106, 9) solid;
+  color: white;
+  text-shadow: rgb(119, 251, 41) 0px 0px 3px;
+  text-indent: 25px;
+  font-size: 120%;
+  position: relative;
+  top: -160px;
+  left: 30px;
+}
+#rllegenda1 {
+  background-color: rgb(182, 106, 9);
+  display: inline-block;
+  border: 5px rgb(182, 106, 9) solid;
+  color: white;
+  text-shadow: rgb(119, 251, 41) 0px 0px 3px;
+  text-indent: 25px;
+  font-size: 120%;
+  position: relative;
+  top: -170px;
+  left: 30px;
+}
+#rllegenda2 {
+  background-color: rgb(182, 106, 9);
+  display: inline-block;
+  border: 5px rgb(182, 106, 9) solid;
+  color: white;
+  text-shadow: rgb(119, 251, 41) 0px 0px 3px;
+  text-indent: 25px;
+  font-size: 120%;
+  position: relative;
+  top: -180px;
+  left: 30px;
+}
+#img-asustada {
+  float: right;
+  position: absolute;
+  top: 590px;
+  right: 40px;
+}
+#vincwebllegenda {
+  background-color: rgb(182, 106, 9);
+  display: inline-block;
+  border: 5px rgb(182, 106, 9) solid;
+  text-shadow: white 0px 0px 3px;
+  font-size: 120%;
+  position: relative;
+  top: -130px;
+  left: -400px;
+}
+#post-llegenda {
+  background-color: rgb(182, 106, 9);
+  display: inline-block;
+  border: 5px rgb(182, 106, 9) solid;
+  font-size: 120%;
+  color: white;
+  text-align: center;
+  text-shadow: rgb(251, 41, 207) 0px 0px 3px;
+  position: relative;
+  top: -140px;
+  left: 30px;
+}
+#intro-cc {
+  background-color: rgb(182, 106, 9);
+  display: inline-block;
+  border: 5px rgb(182, 106, 9) solid;
+  font-size: 120%;
+  color: white;
+  text-shadow: rgb(251, 41, 207) 0px 0px 3px;
+  position: relative;
+  top: -150px;
+  left: 280px;
+}
+#link-cc {
+  background-color: orange;
+  display: inline-block;
+  border: 5px orange solid;
+  text-shadow: white 0px 0px 3px;
+  position: relative;
+  top: -100px;
+  left: -250px;
+}
+#plus-cc {
+  background-color: rgb(182, 106, 9);
+  display: inline-block;
+  border: 5px rgb(182, 106, 9) solid;
+  font-size: 120%;
+  color: white;
+  text-shadow: rgb(251, 41, 207) 0px 0px 3px;
+  position: relative;
+  top: -120px;
+  left: 235px;
+}
+#link-cc1 {
+  display: inline-block;
+  border: 5px orange solid;
+  text-shadow: white 0px 0px 3px;
+  background-color: orange;
+  position: relative;
+  top: -70px;
+  left: -375px;
+}
+#variasimg {
+  position: absolute;
+  top: 1050px;
+  right: 40px;
+  z-index: 4;
+}
+#variasimg1 {
+  position: absolute;
+  top: 1190px;
+  right: 190px;
+  z-index: 3;
+}
+#variasimg2 {
+  position: absolute;
+  top: 1170px;
+  right: 350px;
+  z-index: 4;
+}
+#variasimg3 {
+  position: absolute;
+  top: 1765px;
+  left: 38px;
+  z-index: 3;
+}
+#variasimg4 {
+  position: absolute;
+  top: 1615px;
+  right: 65px;
+  z-index: 4;
+}
+#variasimg5 {
+  position: absolute;
+  top: 1340px;
+  right: 15px;
+  z-index: 3;
+}
+
+#elsantet {
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/e/ed/Meteor_falling_courtesy_NASA.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 1350px;
+  height: 550px;
+  background-position: center;
+  color: black;
+  text-shadow: white 0px 0px 10px;
+  border: 10px red solid;
+  position: absolute;
+  top: 1995px;
+  left: 9px;
+  text-indent: 25px;
+  font-size: 120%;
+}
+.santet {
+  text-align: center;
+  position: absolute;
+  right: 400px;
+}
+.introsantet {
+  text-align: center;
+  position: absolute;
+  right: 20px;
+  top: 70px;
+}
+.imgsantet {
+  position: absolute;
+  left: 15px;
+  top: 80px;
+}
+.textsantet {
+  text-align: center;
+  position: absolute;
+  right: 280px;
+  top: 170px;
+}
+.textsantet1 {
+  text-align: center;
+  position: absolute;
+  right: 20px;
+  top: 220px;
+}
+.listsantetlink {
+  text-shadow: none;
+  text-align: left;
+  position: absolute;
+  left: 300px;
+  top: 340px;
+}
+
+#sitges {
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/c/c8/Sonar-con-la-muerte-personificada-no-tengas-miedo-lg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 1000px;
+  height: 1500px;
+  background-position: center;
+  color: red;
+  text-shadow: blue 0px 0px 10px;
+  border: 1px red solid;
+  position: absolute;
+  top: 2580px;
+  right: 0px;
+  text-indent: 25px;
+  font-size: 120%;
+  z-index: 2;
+}
+
+.tsirena {
+  position: absolute;
+  top: 50px;
+  left: 240px;
+}
+.img-sirena {
+  position: absolute;
+  left: -270px;
+  top: 190px;
+  z-index: 3;
+}
+.text-sirena {
+  text-align: center;
+  position: absolute;
+  top: 140px;
+  left: 280px;
+}
+.listsirenalink {
+  text-shadow: none;
+  position: absolute;
+  top: 370px;
+  left: 280px;
+}
+
+.tgarraf {
+  position: absolute;
+  top: 510px;
+  left: 240px;
+}
+.imgcuesta {
+  position: absolute;
+  top: 550px;
+  left: -320px;
+  z-index: 4;
+}
+.tcuesta {
+  text-align: center;
+  position: absolute;
+  top: 600px;
+  left: 300px;
+}
+.listcuestalink {
+  text-shadow: none;
+  text-align: left;
+  position: absolute;
+  top: 920px;
+  left: 280px;
+}
+.img-cuesta-avist {
+  position: absolute;
+  top: 720px;
+  left: -40px;
+  z-index: 3;
+}
+.img-cuesta-avist1 {
+  position: absolute;
+  top: 860px;
+  left: -220px;
+  z-index: 4;
+}
+
+.tjafra {
+  text-align: left;
+  position: absolute;
+  top: 1100px;
+  left: 240px;
+}
+.text-jafra {
+  text-align: center;
+  position: absolute;
+  top: 1230px;
+  right: 90px;
+}
+.img-jafra {
+  position: absolute;
+  top: 1150px;
+  left: -300px;
+}
+.link-jafra {
+  text-shadow: none;
+  position: absolute;
+  top: 1400px;
+  right: 80px;
+}
+
+#poblesfantasmes {
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/f/fe/Craco0010.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 1300px;
+  height: 400px;
+  background-position: center 20%;
+  color: black;
+  text-shadow: white 0px 0px 3px, rgb(137, 7, 244) 0px 0px 5px,
+    green 0px 0px 8px;
+  position: absolute;
+  top: 4120px;
+  left: 0px;
+  text-indent: 25px;
+  font-size: 120%;
+  z-index: 3;
+}
+.tpoblesfantasmes {
+  position: absolute;
+  top: 30px;
+  left: 290px;
+}
+.text-pfantasmes {
+  position: absolute;
+  top: 110px;
+  left: 30px;
+}
+.link-pfantasmes {
+  text-shadow: none;
+  position: absolute;
+  top: 330px;
+}
+
+#vampira {
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/6/6a/Barcelona_1579%2C_F._Valesio.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 1300px;
+  height: 700px;
+  background-position: center;
+  color: blue;
+  text-shadow: orange 0px 0px 5px, green 0px 0px 8px;
+  position: absolute;
+  top: 4560px;
+  right: 0px;
+  text-align: center;
+  line-height: 50px;
+  text-indent: 25px;
+  font-size: 120%;
+  z-index: 2;
+}
+.tvampira {
+  background-color: orange;
+  display: inline-block;
+}
+.introvampira {
+  background-color: orange;
+  display: inline-block;
+}
+.vvampira {
+  width: 45%;
+  position: absolute;
+  top: 300px;
+  right: 350px;
+}
+.text-vampira {
+  background-color: orange;
+  display: inline-block;
+}
+.text-vampira1 {
+  background-color: orange;
+  display: inline-block;
+  position: absolute;
+  top: 500px;
+  left: 250px;
+}
+.link-vampira {
+  background-color: orange;
+  text-shadow: none;
+  position: absolute;
+  top: 620px;
+  left: 410px;
+}
+
+#ruta {
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/e/e0/Hernando_de_la_cruz-inferno-compa%C3%B1ia.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  border: 1px blue solid;
+  width: 1300px;
+  height: 250px;
+  background-position: center 20%;
+  color: white;
+  text-shadow: green 0px 0px 3px, rgb(137, 7, 244) 0px 0px 5px,
+    green 0px 0px 8px;
+  position: absolute;
+  top: 5300px;
+  left: 0px;
+  text-indent: 25px;
+  font-size: 120%;
+  z-index: 3;
+}
+.text-ruta {
+  position: absolute;
+  top: 50px;
+  left: 50px;
+}
+.link-ruta {
+  text-shadow: none;
+  text-indent: 0px;
+  position: absolute;
+  top: 180px;
+  left: 550px;
+  background-color: black;
+  border: 3px black solid;
+}
+
+#negreta {
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/f/ff/Francesco_Botticini_-_The_Assumption_of_the_Virgin.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  border: 1px blue solid;
+  width: 1200px;
+  height: 500px;
+  background-position: center 0%;
+  color: black;
+  text-shadow: white 0px 0px 3px, rgb(137, 7, 244) 0px 0px 5px,
+    green 0px 0px 8px;
+  position: absolute;
+  top: 5590px;
+  right: 0px;
+  text-align: center;
+  font-size: 120%;
+  z-index: 2;
+}
+.tnegreta {
+  background-color: rgb(29, 249, 218);
+  border: rgb(29, 249, 218) 5px solid;
+  display: inline-block;
+  position: absolute;
+  right: 300px;
+}
+.text-negreta {
+  background-color: rgb(29, 249, 218);
+  border: rgb(29, 249, 218) 2px solid;
+  display: inline-block;
+  position: absolute;
+  top: 80px;
+  right: 50px;
+}
+.img-montserrat {
+  position: absolute;
+  top: 100px;
+  left: -200px;
+}
+.linklmontserrat {
+  background-color: rgb(29, 249, 218);
+  border: rgb(29, 249, 218) 5px solid;
+  text-shadow: none;
+  position: absolute;
+  top: 320px;
+  right: 250px;
+}
+.text-negreta1 {
+  background-color: rgb(29, 249, 218);
+  border: rgb(29, 249, 218) 5px solid;
+  display: inline-block;
+  position: absolute;
+  top: 370px;
+  right: 180px;
+}
+.linkartmontserrat {
+  background-color: rgb(29, 249, 218);
+  border: rgb(29, 249, 218) 5px solid;
+  text-shadow: none;
+  position: absolute;
+  top: 450px;
+  right: 215px;
+}
+
+#tarragona {
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Mirkwood_-_entrance.jpg/800px-Mirkwood_-_entrance.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  border: 1px blue solid;
+  width: 1200px;
+  height: 950px;
+  background-position: center 90%;
+  color: white;
+  text-indent: 25px;
+  text-shadow: white 0px 0px 3px, rgb(137, 7, 244) 0px 0px 5px,
+    green 0px 0px 8px;
+  position: absolute;
+  top: 6120px;
+  right: 50px;
+  text-align: center;
+  font-size: 120%;
+  z-index: 2;
+}
+
+.tmussara {
+  position: absolute;
+  top: 40px;
+  left: 430px;
+}
+.text-mussara {
+  position: absolute;
+  top: 130px;
+  left: 60px;
+}
+.link-mussara {
+  background-color: white;
+  border: 3px white solid;
+  text-indent: 0px;
+  text-shadow: none;
+  position: absolute;
+  top: 320px;
+  left: 415px;
+}
+.text-mussara1 {
+  position: absolute;
+  top: 380px;
+  left: 330px;
+}
+.img-mussara {
+  position: absolute;
+  top: -15px;
+  right: -40px;
+}
+.link-altreshistories {
+  background-color: white;
+  border: 3px white solid;
+  position: absolute;
+  top: 460px;
+  left: 520px;
+  text-shadow: none;
+  text-indent: -25px;
+}
+
+.tdip {
+  position: absolute;
+  top: 590px;
+  left: 650px;
+}
+.text-dip {
+  position: absolute;
+  top: 660px;
+  left: 300px;
+}
+.link-dip {
+  position: absolute;
+  text-shadow: none;
+  top: 770px;
+  left: 610px;
+  background-color: white;
+  border: 3px white solid;
+  text-shadow: none;
+  text-indent: 0px;
+}
+.img-dip {
+  position: absolute;
+  top: 350px;
+  left: -150px;
+}
+
+#lleida {
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/e/e7/Inside_the_Lake_Saiko_Bat_Cave_B-Point.JPG);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center 0%;
+  width: 1200px;
+  height: 1170px;
+  border: 1px blue solid;
+  color: white;
+  text-shadow: white 0px 0px 3px, rgb(137, 7, 244) 0px 0px 5px,
+    green 0px 0px 8px;
+  text-align: left;
+  text-indent: 25px;
+  font-size: 120%;
+  position: absolute;
+  top: 7100px;
+  left: 0px;
+  z-index: 2;
+}
+.t-el-pont {
+  position: relative;
+  top: 20px;
+  left: 25px;
+}
+.texto-el-pont {
+  position: relative;
+  top: 30px;
+  left: 25px;
+}
+.texto-el-pont1 {
+  position: relative;
+  top: 40px;
+  left: 25px;
+}
+.img-pont {
+  position: absolute;
+  top: 80px;
+  right: -150px;
+}
+.link-pont {
+  text-shadow: none;
+  display: inline-block;
+  text-indent: 0px;
+  background-color: orange;
+  border: 3px orange solid;
+  position: relative;
+  top: 50px;
+  left: 25px;
+}
+
+.text-castell-prev {
+  position: relative;
+  top: 60px;
+  left: 25px;
+}
+.tcastell {
+  position: relative;
+  top: 70px;
+}
+.link-castell {
+  text-shadow: none;
+  display: inline-block;
+  text-indent: 0px;
+  background-color: orange;
+  border: 3px orange solid;
+  position: relative;
+  top: 80px;
+  left: 25px;
+}
+.img-castell {
+  position: absolute;
+  right: -140px;
+}
+
+.thistvar {
+  position: relative;
+  top: 90px;
+  left: 0px;
+}
+.text-histvar {
+  position: relative;
+  top: 90px;
+  left: 25px;
+}
+.link-histpet {
+  text-shadow: none;
+  display: inline-block;
+  text-indent: 0px;
+  background-color: orange;
+  border: 3px orange solid;
+  position: relative;
+  top: 100px;
+  left: 25px;
+}
+.img-estany {
+  position: absolute;
+  top: 650px;
+  right: -150px;
+}
+
+.text-piri {
+  position: relative;
+  top: 110px;
+  left: 25px;
+}
+.link-varios-lleida {
+  text-indent: 0px;
+  display: inline-block;
+  background-color: orange;
+  border: 3px orange solid;
+  position: relative;
+  top: 110px;
+  left: 25px;
+  text-shadow: none;
+}
+
+.tulleida {
+  position: relative;
+  top: 110px;
+  left: 25px;
+}
+.text-lleida {
+  position: relative;
+  top: 110px;
+  left: 25px;
+}
+.img-marraco {
+  position: absolute;
+  top: 990px;
+  right: -170px;
+  z-index: 3;
+}
+.link-marraco {
+  display: inline-block;
+  text-shadow: none;
+  text-indent: 0px;
+  background-color: orange;
+  border: 3px orange solid;
+  position: relative;
+  top: 130px;
+  left: 25px;
+}
+
+.text-diverses {
+  position: relative;
+  top: 140px;
+  left: 25px;
+}
+.link-divfantasmes {
+  text-shadow: none;
+  text-indent: 0px;
+  display: inline-block;
+  background-color: orange;
+  border: 3px orange solid;
+  position: absolute;
+  top: 1130px;
+  left: 25px;
+}
+
+#girona {
+  background-image: url(https://acegif.com/wp-content/uploads/halloween-gif-animated-17.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 1200px;
+  height: 900px;
+  background-position: center 0%;
+  color: red;
+  text-shadow: blue 0px 0px 3px, white 0px 0px 5px, purple 0px 0px 8px;
+  position: absolute;
+  top: 8300px;
+  right: 0px;
+  text-align: center;
+  font-size: 120%;
+  z-index: 2;
+}
+.tgirona {
+}
+.text-girona {
+}
+.links-var-girona {
+  text-shadow: none;
+  background-color: black;
+  border: 3px white solid;
+  display: inline-block;
+}
+
+.tbanyoles {
+}
+.img-banyoles {
+}
+.text-banyoles {
+}
+.link-banyoles {
+  text-shadow: none;
+  background-color: black;
+  border: 3px white solid;
+  display: inline-block;
+}
+
+.text-bt {
+}
+.links-bt {
+  text-shadow: none;
+  background-color: black;
+  border: 3px white solid;
+  display: inline-block;
+}
+
+#final {
+  background-image: url(https://www.soy-de.com/images/thumbs/Siete-lugares-para-vivir-una-m%c3%a1gica-noche-de-San-J-0010749_600.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 1350px;
+  height: 330px;
+  background-position: center 60%;
+  color: white;
+  text-shadow: white 0px 0px 3px, rgb(137, 7, 244) 0px 0px 5px,
+    black 0px 0px 8px;
+  position: absolute;
+  top: 9230px;
+  left: 18px;
+  text-align: center;
+  font-size: 120%;
+  z-index: 2;
+}
+.tconclusion {
+}
+.link-mtcollserolla {
+  background-color: black;
+  border: 2px black solid;
+  text-shadow: none;
+}
+.text-conclusion {
+}
+.text-conclusion1 {
+}
